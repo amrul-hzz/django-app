@@ -1,2 +1,0 @@
-HEROKU_API_KEY: b59200ac-39b5-4d14-9ac3-e82501bafe0d
-HEROKU_APP_NAME: heroku-exercise-amrul-hzz
